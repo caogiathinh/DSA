@@ -1,0 +1,3 @@
+﻿  bucket_integer.cpp
+D:\workspace\C++\C++LANGUGUE\sorting\bucket_integer.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sorting.vcxproj -> D:\workspace\C++\C++LANGUGUE\x64\Debug\sorting.exe
